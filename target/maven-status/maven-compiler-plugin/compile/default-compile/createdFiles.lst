@@ -1,0 +1,13 @@
+com/instagram/Follow/model/Follow.class
+com/instagram/Follow/model/Follow$FollowBuilder.class
+com/instagram/Follow/clients/UserServiceClient.class
+com/instagram/Follow/service/FollowService.class
+com/instagram/Follow/dto/FollowDto$FollowDtoBuilder.class
+com/instagram/Follow/model/Requests.class
+com/instagram/Follow/dto/UserDto.class
+com/instagram/Follow/model/Requests$RequestsBuilder.class
+com/instagram/Follow/dto/FollowDto.class
+com/instagram/Follow/FollowApplication.class
+com/instagram/Follow/controller/FollowController.class
+com/instagram/Follow/repository/FollowRepository.class
+com/instagram/Follow/repository/RequestsRepository.class

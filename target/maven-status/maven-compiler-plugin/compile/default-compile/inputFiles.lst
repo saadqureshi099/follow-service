@@ -1,0 +1,10 @@
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/dto/UserDto.java
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/clients/UserServiceClient.java
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/dto/FollowDto.java
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/model/Requests.java
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/repository/RequestsRepository.java
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/FollowApplication.java
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/service/FollowService.java
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/controller/FollowController.java
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/repository/FollowRepository.java
+/home/dev/Documents/Insta/Instaclone/follow-service/src/main/java/com/instagram/Follow/model/Follow.java
